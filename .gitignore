@@ -1,17 +1,18 @@
+#내가 추가
+.idea
+gradle
+src
+build.gradle
+gradlew
+gradlew.bat
+settings.gradle
+
+
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
-
-#내가 추가
-/.idea
-/gradle
-/src
-/build.gradle
-/gradlew
-/gradlew.bat
-/settings.gradle
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
