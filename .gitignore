@@ -5,13 +5,13 @@ build/
 !**/src/test/**/build/
 
 #내가 추가
-.idea
-gradle
-src
-build.gradle
-gradlew
-gradlew.bat
-settings.gradle
+/.idea
+/gradle
+/src
+/build.gradle
+/gradlew
+/gradlew.bat
+/settings.gradle
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
